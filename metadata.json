@@ -1,0 +1,6 @@
+{
+  "name": "ระบบบริหารการเงินสถานศึกษา (Director Management System)",
+  "description": "ระบบบริหารการเงินหน่วยงานย่อยและประเมินสัมฤทธิผลการปฏิบัติงานตำแหน่งผู้อำนวยการสถานศึกษา เชื่อมต่อ Google Sheets และ Google Drive พร้อมส่งออกเอกสาร Word และ PDF",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
